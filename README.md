@@ -25,7 +25,7 @@ scan_in → [SFF0] → [SFF1] → [SFF2] → [SFF3] → scan_out
 - **Test 3** — Stuck-at-0 fault detection
 
 ## 📊 Simulation Results
-![Waveforms](waveform.png)
+![Waveforms](image.png)
 
 ## 🛠️ Tools
 - VHDL
